@@ -62,4 +62,4 @@ Para executar o projeto localmente, siga as instruções abaixo:
 - **PHP**: Usado para o backend e comunicação com o banco de dados.
 - **MySQL**: Banco de dados relacional para armazenar informações de usuários, recompensas e conteúdo do blog.
 - **HTML5/CSS3**: Usados para a construção das páginas e estilização.
-- **JavaScript (opcional)**: Caso haja funcionalidades interativas como validação de formulários e animações.
+- **JavaScript**: Funcionalidades interativas como validação de formulários.
