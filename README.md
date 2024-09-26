@@ -37,7 +37,7 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/usuario/123folhas.git
+   git clone https://github.com/iYoNuttxD/123Folhas
    ```
 
 2. **Configuração do Servidor Local:**
