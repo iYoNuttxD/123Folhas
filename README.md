@@ -17,7 +17,7 @@ Este projeto tem como objetivo fornecer uma experiência interativa e recompensa
 Os usuários podem criar uma conta e se autenticar através do módulo de **Cadastro** e **Login**. Após a autenticação, os usuários têm acesso ao perfil personalizado, onde podem visualizar suas recompensas e histórico de viagens.
 
 ### 2. Sistema de Recompensas
-O **123Recompensa** permite que os usuários acumulem pontos por suas interações no site, como leitura de artigos, cadastro de viagens e compartilhamento de experiências. Os pontos podem ser trocados por benefícios, como descontos em destinos e parcerias com empresas de turismo.
+O **123Recompensa** permite que os usuários acumulem pontos por utilização de cupons. Os pontos podem ser trocados por brindes, como camiseta, óculos, caneca, entre outros.
 
 ### 3. Blog de Viagens
 A seção **Blog** oferece conteúdo exclusivo sobre destinos de viagem, com categorias divididas entre **Nacionais** e **Internacionais**, permitindo que os usuários explorem lugares por todo o mundo, além de dicas e guias de viagem.
