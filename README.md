@@ -9,7 +9,7 @@ Este projeto tem como objetivo fornecer uma experiência interativa e recompensa
 - **Blog de Viagens** com artigos sobre diversos destinos.
 - **Busca de Destinos** que facilita a navegação pelos conteúdos de interesse.
 - **Sistema de Recompensas** integrado à interação do usuário com a plataforma.
-- **Perfis de Usuário** personalizados, incluindo histórico de viagens e conquistas.
+- **Perfis de Usuário** personalizados, incluindo histórico de viagens.
 
 ## Funcionalidades Principais
 
