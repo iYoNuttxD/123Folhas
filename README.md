@@ -65,7 +65,7 @@ Para executar o projeto localmente, siga as instruções abaixo:
      ```
 
 4. **Inicie o Servidor:**
-   Acesse o projeto via navegador por meio de `http://localhost/123folhas/index.php`.
+   Acesse o projeto via navegador por meio de `http://localhost/123folhas/`.
 
 ## Tecnologias Utilizadas
 
