@@ -11,6 +11,11 @@ Este projeto tem como objetivo fornecer uma experiência interativa e recompensa
 - **Sistema de Recompensas** integrado à interação do usuário com a plataforma.
 - **Perfis de Usuário** personalizados, incluindo histórico de viagens.
 
+##Premiação
+O projeto 123Folhas foi premiado com 1º lugar na categoria de voto popular em um concurso de desenvolvimento web, realizado na Pontifícia Universidade Católica do Paraná (PUC-PR), reconhecendo sua inovação e qualidade técnica.
+
+![image](https://github.com/user-attachments/assets/97ad9cdc-8e77-448e-8e6e-fe0c6bdfca45)
+
 ## Funcionalidades Principais
 
 ### 1. Sistema de Cadastro e Login
